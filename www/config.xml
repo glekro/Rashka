@@ -2,11 +2,11 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "ru.finam.games.mobile.rashka"
-        version   = "0.1.1">
+        version   = "0.1.2">
     <name>Russian Mafia</name>
 
     <description>
-        Uncensored politics. Economy without secrets. A unique game "Raska": with humor about serious!
+        Uncensored politics. Economy without secrets. A unique game: with humor about serious!
     </description>
 
     <author href="http://rashka.ru" email="support@rashka.ru">
