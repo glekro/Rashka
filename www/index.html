@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="app">
-            <h1>Russian Mafia v 0.1.2</h1>
+            <h1>Russian Mafia v 0.1.3</h1>
             <div id="deviceready">
                 <p class="status pending blink">Connecting to Device</p>
                 <p class="status complete blink hide">Device is Ready</p>
@@ -16,14 +16,14 @@
             </div>
         </div>
         <script type="text/javascript" src="cordova-2.0.0.js"></script>
-        <script src="childbrowser.js"></script>
+        <script type="text/javascript" src="childbrowser.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
         <script type="text/javascript">
             app.initialize();
 
 						function startGame(){
 							window.plugins.childBrowser.showWebPage("http://www.rashka.ru/combat.html"); 
-						}
+						};
 
         </script>
     </body>
